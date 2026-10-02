@@ -1,0 +1,10 @@
+# Virtual environment (each person creates their own)
+.venv/
+
+# Generated charts (can be recreated by running main.py)
+outputs/
+
+# Python cache files
+__pycache__/
+*.pyc
+.pytest_cache/
