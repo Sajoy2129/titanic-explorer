@@ -8,3 +8,6 @@ outputs/
 __pycache__/
 *.pyc
 .pytest_cache/
+
+# Raw data copy (recreated by running main.py)
+data/
